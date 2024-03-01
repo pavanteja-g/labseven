@@ -3,12 +3,12 @@ package org.example;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import static org.example.FizzBuzz.fizzBuzz;
+import static org.example.App.fizzBuzz;
 
 /**
  * Unit test for simple App.
  */
-public class FizzBuzzTest
+public class AppTest
     extends TestCase
 {
     /**
@@ -16,7 +16,7 @@ public class FizzBuzzTest
      *
      * @param testName name of the test case
      */
-    public FizzBuzzTest(String testName )
+    public AppTest(String testName )
     {
         super( testName );
     }
@@ -26,7 +26,7 @@ public class FizzBuzzTest
      */
     public static Test suite()
     {
-        return new TestSuite( FizzBuzzTest.class );
+        return new TestSuite( AppTest.class );
     }
 
     /**
@@ -40,6 +40,8 @@ public class FizzBuzzTest
 
         assertEquals("1",fizzBuzz(1));
         assertEquals("2",fizzBuzz(2));
+        assertEquals("Fizz",fizzBuzz(3));
+        assertEquals("Buzz",fizzBuzz(5));
     }
 
 }
