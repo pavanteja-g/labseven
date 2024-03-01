@@ -8,8 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
+        for(int i=1;i<=100;i++){
+            System.out.println( fizzBuzz(i) );
+        }
 
-        System.out.println( fizzBuzz(3) );
     }
 
     public static String fizzBuzz(int n) {

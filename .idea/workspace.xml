@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd6f57a9-5c98-4191-af3a-0d86b5ba6bb0" name="Changes" comment="passed for 30">
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="fd6f57a9-5c98-4191-af3a-0d86b5ba6bb0" name="Changes" comment="passed for 75">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.test">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="Final_lab7" />
@@ -105,9 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="JUnit.AppTest.test" />
         <item itemvalue="JUnit.AppTest.testApp" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709258734362</updated>
-      <workItem from="1709258735443" duration="3967000" />
+      <workItem from="1709258735443" duration="4300000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -201,7 +202,39 @@
       <option name="project" value="LOCAL" />
       <updated>1709262515228</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="passed for 60">
+      <option name="closed" value="true" />
+      <created>1709262746603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262746603</updated>
+    </task>
+    <task id="LOCAL-00012" summary="passed for 75">
+      <option name="closed" value="true" />
+      <created>1709262839349</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262839349</updated>
+    </task>
+    <task id="LOCAL-00013" summary="passed for 75">
+      <option name="closed" value="true" />
+      <created>1709262876433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262876433</updated>
+    </task>
+    <task id="LOCAL-00014" summary="passed for 75">
+      <option name="closed" value="true" />
+      <created>1709262911235</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262911235</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +262,9 @@
     <MESSAGE value="passed for 15" />
     <MESSAGE value="failed for 30" />
     <MESSAGE value="passed for 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="passed for 30" />
+    <MESSAGE value="passed for 60" />
+    <MESSAGE value="passed for 90" />
+    <MESSAGE value="passed for 75" />
+    <option name="LAST_COMMIT_MESSAGE" value="passed for 75" />
   </component>
 </project>
