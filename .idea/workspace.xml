@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd6f57a9-5c98-4191-af3a-0d86b5ba6bb0" name="Changes" comment="first test">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" afterDir="false" />
+    <list default="true" id="fd6f57a9-5c98-4191-af3a-0d86b5ba6bb0" name="Changes" comment="Failed for 15">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709258734362</updated>
-      <workItem from="1709258735443" duration="2985000" />
+      <workItem from="1709258735443" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -138,7 +137,47 @@
       <option name="project" value="LOCAL" />
       <updated>1709260919147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test case passed for 3">
+      <option name="closed" value="true" />
+      <created>1709261835399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709261835399</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Failed for 5">
+      <option name="closed" value="true" />
+      <created>1709261882444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709261882444</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Passed for 5">
+      <option name="closed" value="true" />
+      <created>1709261932425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709261932425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Passed for 9 and 10">
+      <option name="closed" value="true" />
+      <created>1709262000199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262000199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Failed for 15">
+      <option name="closed" value="true" />
+      <created>1709262029159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262029159</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +197,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="first test" />
+    <MESSAGE value="Test case passed for 3" />
+    <MESSAGE value="Failed for 5" />
+    <MESSAGE value="Passed for 5" />
+    <MESSAGE value="Passed for 9 and 10" />
+    <MESSAGE value="Failed for 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Failed for 15" />
   </component>
 </project>
