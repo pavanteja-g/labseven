@@ -4,14 +4,16 @@ package org.example;
  * Hello world!
  *
  */
-public class FizzBuzz
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( fizzBuzz(2) );
+
+        System.out.println( fizzBuzz(3) );
     }
 
     public static String fizzBuzz(int n) {
+
         if (n % 3 == 0) {
             return "Fizz";
         }
