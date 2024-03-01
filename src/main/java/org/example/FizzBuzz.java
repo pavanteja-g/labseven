@@ -1,11 +1,20 @@
 package org.example;
 
+/**
+ * Hello world!
+ *
+ */
+public class FizzBuzz
+{
+    public static void main( String[] args )
+    {
+        System.out.println( fizzBuzz(2) );
+    }
 
-public class FizzBuzz  {
-    public static String fizzBuzz(int i) {
-        if (i % 3 == 0) {
+    public static String fizzBuzz(int n) {
+        if (n % 3 == 0) {
             return "Fizz";
         }
-        return Integer.toString(i);
+        return Integer.toString(n);
     }
 }
